@@ -1,27 +1,28 @@
-# Portfolio site
+# Lainey: Graphic Design Portfolio
 
-A static HTML/CSS/JS portfolio — no build step, no Jekyll theme required.
+A fast, accessible portfolio built with plain HTML, CSS and a little JavaScript. There's **no build step**: it publishes directly on GitHub Pages and every file can be edited in the browser.
 
-## Publish it on GitHub Pages
+**Live site:** https://finlain26-svg.github.io
 
-1. Delete the old contents of your `finlain26-svg.github.io` repo (or start a fresh repo with that exact name).
-2. Copy every file from this folder into the repo, keeping the folder structure (`index.html`, `styles.css`, `script.js`, `.nojekyll`, and the `images/` folder).
-3. You can delete `_config.yml` — it's not needed for a plain HTML site.
-4. Commit and push to the `main` branch.
-5. In the repo's Settings → Pages, make sure the source is set to deploy from `main` / root.
-6. Your site will be live at `https://finlain26-svg.github.io` within a minute or two.
+## Where things are
 
-## Edit your content
+| Path | What it is |
+|---|---|
+| `site.json` | Your name, bio, skills, experience, education, contact info |
+| `projects.json` | Every project (one entry each). Pages are generated from this |
+| `images/projects/<project-name>/` | Images for each project (`cover.webp` plus `final/`, `render/`, `drawing/`, `process/`, `reference/`) |
+| `downloads/` | PDFs: shop drawings and your résumé |
+| `styles.css` | All styling. Colors, fonts and spacing are at the top |
+| `script.js` | Builds the pages from the two JSON files. You shouldn't need to edit it |
+| `index.html`, `work.html`, `project.html`, `about.html`, `resume.html`, `contact.html`, `404.html` | Page shells (the same `project.html` is used for every project) |
+| `sitemap.xml`, `robots.txt` | For search engines |
+| `images/og-cover.jpg` | Link-preview image (1200 × 630) |
 
-See `CONTENT-GUIDE.md` for the exact lines to change (your name, bio, and contact info are currently placeholders).
+## Guides
 
-## Add more work later
+- **[HOW-TO-UPDATE.md](HOW-TO-UPDATE.md)** covers adding projects, editing your bio and résumé, publishing, and fixing problems.
+- **[DESIGN-GUIDE.md](DESIGN-GUIDE.md)** covers changing colors, fonts and layout, and how to hand over a mood board and assets for a redesign.
 
-Each category section in `index.html` is a `<div class="gallery">` of `<figure>` blocks. To add a new piece:
-1. Drop the image file into the matching `images/<category>/` folder.
-2. Copy an existing `<figure>...</figure>` block in that section, update the `src`, `data-full`, `data-cap`, `alt`, and caption text.
+## Publish
 
-To add the CAD shop drawings category:
-1. Create `images/cad/` and `images/cad_thumb/` folders.
-2. Add a new `<section class="section" id="cad">` to `index.html` (copy the "Paintings" section as a template) with its own gallery.
-3. Add `<li><a href="#cad">CAD Drawings</a></li>` to the nav in both the desktop and mobile menu list.
+Settings → Pages → Deploy from a branch → `main` / `(root)`. Full steps are in HOW-TO-UPDATE.md, section 1.

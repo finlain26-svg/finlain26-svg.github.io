@@ -1,0 +1,67 @@
+{
+  "name": "Lainey",
+  "jobTitle": "Graphic Designer",
+  "headline": "Graphic Designer | 3D Visualization | CAD Drafting",
+  "valueStatement": "I design brands, packaging and signage, then draw them so they can actually be made.",
+  "availability": "Open to full-time roles in brand design, packaging design and in-house creative teams.",
+  "location": "[Your city, State]",
+  "url": "https://finlain26-svg.github.io",
+
+  "email": "your-email@example.com",
+  "linkedin": "https://www.linkedin.com/in/your-name",
+  "instagram": "",
+  "resumePdf": "",
+
+  "categories": [
+    { "name": "Branding",             "blurb": "Logos, labels, packaging and environmental branding." },
+    { "name": "3D Rendering",         "blurb": "Product, packaging and assembly visualizations." },
+    { "name": "CAD / Shop Drawings",  "blurb": "Dimensioned production drawings for signs, graphics and installs." },
+    { "name": "Illustration",         "blurb": "Characters, books and editorial art." },
+    { "name": "Photography",          "blurb": "Photographs." },
+    { "name": "Physical Art",         "blurb": "Paintings and drawings on paper and canvas." }
+  ],
+
+  "bio": [
+    "I'm a graphic designer working across branding, packaging, illustration and signage, with a painting practice on the side. I like projects that start with a mark and then have to work on every surface it touches: a label, a box, a lobby wall, a banner.",
+    "I also draw production-ready shop drawings, so my designs come with the dimensions, materials and mounting details needed to build them."
+  ],
+
+  "skills": [
+    "Brand identity",
+    "Packaging design",
+    "Illustration",
+    "Print and book layout",
+    "3D visualization",
+    "CAD shop drawings",
+    "Environmental graphics",
+    "Mockups and presentation"
+  ],
+
+  "software": [
+    "Adobe Illustrator",
+    "Adobe Photoshop",
+    "Adobe InDesign"
+  ],
+
+  "experience": [
+    {
+      "role": "[Job title]",
+      "org": "[Company name]",
+      "years": "[20XX – Present]",
+      "bullets": [
+        "[One line about what you did and the result.]",
+        "[Another line. Start with a verb and add a number if you can.]"
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "school": "[School name]",
+      "credential": "[Degree or program]",
+      "years": "[20XX – 20XX]"
+    }
+  ],
+
+  "resumeSummary": "Graphic designer with experience in brand identity, packaging, illustration and CAD shop drawings, taking work from concept through production-ready files."
+}
