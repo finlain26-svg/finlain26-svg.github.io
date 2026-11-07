@@ -1,0 +1,646 @@
+{
+  "projects": [
+    {
+      "id": "aceitar-wine-label",
+      "title": "Aceitar Moscato — Wine Label",
+      "category": "Branding",
+      "alsoIn": [
+        "3D Rendering"
+      ],
+      "year": "",
+      "role": "Label design & 3D visualization",
+      "tools": [],
+      "summary": "A dark, gold-detailed wine label with braille text, shown flat, rendered in 3D and mocked up in a styled shoot.",
+      "description": "Label and brand identity for Aceitar Moscato. The dark bottle, gold line illustration and tactile braille detail are designed to read as premium on a shelf and to carry across the whole bottle, front and back.",
+      "brief": "Create a label that feels premium and distinctive for a Moscato, and check how it wraps around a real bottle before print.",
+      "process": [
+        "Designed the label artwork flat, front and back.",
+        "Built 3D renders of the bottle to check legibility, scale and how the label wraps.",
+        "Placed the final design in a lifestyle mockup with a glass of wine."
+      ],
+      "featured": true,
+      "cover": {
+        "src": "images/projects/aceitar-wine-label/cover.webp",
+        "alt": "Aceitar Moscato bottle with a navy label and gold line art beside a glass of white wine",
+        "w": 1200,
+        "h": 900
+      },
+      "images": [
+        {
+          "src": "images/projects/aceitar-wine-label/final/aceitar-bottle-mockup.webp",
+          "alt": "Aceitar Moscato bottle with a navy label and gold line art beside a glass of white wine",
+          "caption": "Final mockup",
+          "w": 1350,
+          "h": 1800
+        },
+        {
+          "src": "images/projects/aceitar-wine-label/render/aceitar-3d-render-front.webp",
+          "alt": "3D render of the Aceitar Moscato bottle, front label",
+          "caption": "3D render, front",
+          "w": 797,
+          "h": 1137
+        },
+        {
+          "src": "images/projects/aceitar-wine-label/render/aceitar-3d-render-back.webp",
+          "alt": "3D render of the Aceitar Moscato bottle, back label with text and seal",
+          "caption": "3D render, back",
+          "w": 825,
+          "h": 1146
+        }
+      ]
+    },
+    {
+      "id": "onepass-office-branding",
+      "title": "One Pass — Office Branding",
+      "category": "Branding",
+      "alsoIn": [
+        "CAD / Shop Drawings"
+      ],
+      "year": "2025",
+      "role": "Environmental graphics & shop drawings",
+      "tools": [
+        "Adobe Illustrator"
+      ],
+      "summary": "A brand-colored interior: dimensional wall logo, painted wall graphic and a patterned glass covering, all drawn for production.",
+      "description": "Interior branding for the One Pass office. The logo and its looping mark were adapted to three different surfaces — wall, paint and glass — and documented in dimensioned shop drawings so each could be produced and installed accurately.",
+      "brief": "Carry the One Pass brand through an open-plan office using a wall logo, a large painted graphic and a frosted pattern on the conference-room glass.",
+      "process": [
+        "Rendered the graphics onto photos of the space for approval.",
+        "Drew shop drawings with dimensions, materials, ink layers and notes for production.",
+        "Documented the painted wall in progress and the installed result."
+      ],
+      "featured": true,
+      "cover": {
+        "src": "images/projects/onepass-office-branding/cover.webp",
+        "alt": "One Pass logo mounted on a gray office wall above a yellow sofa",
+        "w": 1200,
+        "h": 900
+      },
+      "images": [
+        {
+          "src": "images/projects/onepass-office-branding/final/op-walllogo.webp",
+          "alt": "One Pass logo mounted on a gray office wall above a yellow sofa",
+          "caption": "Dimensional wall logo",
+          "w": 1036,
+          "h": 754
+        },
+        {
+          "src": "images/projects/onepass-office-branding/final/op-logowallgraphic.webp",
+          "alt": "One Pass logo and pattern on a deep teal office wall",
+          "caption": "Logo wall with pattern",
+          "w": 941,
+          "h": 846
+        },
+        {
+          "src": "images/projects/onepass-office-branding/final/op-paintedwall.webp",
+          "alt": "Large teal and aqua One Pass mark painted across an office wall",
+          "caption": "Painted wall graphic",
+          "w": 1013,
+          "h": 589
+        },
+        {
+          "src": "images/projects/onepass-office-branding/final/op-glasscovering.webp",
+          "alt": "Frosted circle pattern with the One Pass mark on conference-room glass",
+          "caption": "Glass covering",
+          "w": 1215,
+          "h": 911
+        },
+        {
+          "src": "images/projects/onepass-office-branding/drawing/onepass-shop-drawing-1.webp",
+          "alt": "Shop drawing of the conference room glass covering with dimensions and notes",
+          "caption": "Shop drawing 1 — conference room glass",
+          "w": 2400,
+          "h": 1553
+        },
+        {
+          "src": "images/projects/onepass-office-branding/drawing/onepass-shop-drawing-2.webp",
+          "alt": "Shop drawing of One Pass interior branding, sheet 2",
+          "caption": "Shop drawing 2",
+          "w": 2400,
+          "h": 1553
+        },
+        {
+          "src": "images/projects/onepass-office-branding/drawing/onepass-shop-drawing-3.webp",
+          "alt": "Shop drawing of One Pass interior branding, sheet 3",
+          "caption": "Shop drawing 3",
+          "w": 2400,
+          "h": 1553
+        },
+        {
+          "src": "images/projects/onepass-office-branding/drawing/onepass-shop-drawing-4.webp",
+          "alt": "Shop drawing of One Pass interior branding, sheet 4",
+          "caption": "Shop drawing 4",
+          "w": 2400,
+          "h": 1553
+        },
+        {
+          "src": "images/projects/onepass-office-branding/drawing/onepass-shop-drawing-5.webp",
+          "alt": "Shop drawing of One Pass interior branding, sheet 5",
+          "caption": "Shop drawing 5",
+          "w": 2400,
+          "h": 1553
+        },
+        {
+          "src": "images/projects/onepass-office-branding/process/op-painted-wall-in-progress.webp",
+          "alt": "The One Pass mark partly painted on a teal wall, in progress",
+          "caption": "Painted wall in progress",
+          "w": 1215,
+          "h": 911
+        }
+      ],
+      "pdf": "downloads/onepass-office-branding-shop-drawings.pdf"
+    },
+    {
+      "id": "tidypaws-packaging",
+      "title": "TidyPaws — Packaging",
+      "category": "Branding",
+      "alsoIn": [
+        "Illustration"
+      ],
+      "year": "",
+      "role": "Packaging & illustration",
+      "tools": [],
+      "summary": "Kraft tube packaging with a hand-drawn animal for each scent.",
+      "description": "Packaging design for TidyPaws: a natural kraft tube with one illustrated animal character per variety. The system flexes by color and character while the type and layout stay consistent.",
+      "brief": "Design a packaging family that looks natural and friendly and is easy to tell apart by scent at a glance.",
+      "process": [
+        "Illustrated a character for each variety.",
+        "Built a label system where color and illustration change and everything else stays fixed.",
+        "Mocked up the tubes in a realistic setting to check the look in context."
+      ],
+      "featured": true,
+      "cover": {
+        "src": "images/projects/tidypaws-packaging/cover.webp",
+        "alt": "Three kraft tube packages with bear, squirrel and raccoon illustrations",
+        "w": 1200,
+        "h": 900
+      },
+      "images": [
+        {
+          "src": "images/projects/tidypaws-packaging/final/tidypaws-mockup-1.webp",
+          "alt": "Three kraft tube packages with bear, squirrel and raccoon illustrations",
+          "caption": "Tube range",
+          "w": 1526,
+          "h": 1254
+        },
+        {
+          "src": "images/projects/tidypaws-packaging/final/tidypaws-mockup-2.webp",
+          "alt": "Three TidyPaws tubes, front view, with animal illustrations and scent names",
+          "caption": "Tube range, front",
+          "w": 1308,
+          "h": 946
+        },
+        {
+          "src": "images/projects/tidypaws-packaging/final/tidypaws-mockup-3.webp",
+          "alt": "Two TidyPaws tubes, one lying on its side, with a bear illustration",
+          "caption": "Tubes, close view",
+          "w": 1146,
+          "h": 1074
+        }
+      ]
+    },
+    {
+      "id": "minneapolis-pickleball-signage",
+      "title": "Minneapolis Pickleball Club — Exterior Signage",
+      "category": "CAD / Shop Drawings",
+      "alsoIn": [
+        "Branding"
+      ],
+      "year": "2025",
+      "role": "Shop drawings & installation graphics",
+      "tools": [
+        "Adobe Illustrator"
+      ],
+      "summary": "Four-foot pickleballs mounted on a building façade, specified down to the rotation of each ball.",
+      "description": "Oversized pickleballs mounted on the outside of the club's building. The shop drawings fix the size, print specification, hardware and mounting method, and the rotation of each ball so they read as three balls in motion.",
+      "brief": "Turn a playful idea into signage that can be fabricated, mounted on an existing façade and installed consistently.",
+      "process": [
+        "Placed the balls on a photo of the building with measurements to check scale and position.",
+        "Specified 3 mm white metal composite faceplates with a direct yellow print and matte laminate.",
+        "Called out aluminum angle hardware and mechanical plus epoxy mounting, with each ball rotated 0°, 30° and 60° from top to bottom."
+      ],
+      "featured": true,
+      "cover": {
+        "src": "images/projects/minneapolis-pickleball-signage/cover.webp",
+        "alt": "Three oversized yellow pickleballs mounted on the glass-and-metal façade of a tall building",
+        "w": 1200,
+        "h": 900
+      },
+      "images": [
+        {
+          "src": "images/projects/minneapolis-pickleball-signage/final/pickleball-install.webp",
+          "alt": "Three oversized yellow pickleballs mounted on the glass-and-metal façade of a tall building",
+          "caption": "Installed signage",
+          "w": 1350,
+          "h": 1800
+        },
+        {
+          "src": "images/projects/minneapolis-pickleball-signage/drawing/pickleball-shop-drawing-1.webp",
+          "alt": "Shop drawing of the exterior pickleball pieces with dimensions, rotations and specifications",
+          "caption": "Shop drawing 1",
+          "w": 2400,
+          "h": 1553
+        },
+        {
+          "src": "images/projects/minneapolis-pickleball-signage/drawing/pickleball-shop-drawing-2.webp",
+          "alt": "Second shop drawing sheet for the pickleball signage",
+          "caption": "Shop drawing 2",
+          "w": 2400,
+          "h": 1553
+        }
+      ],
+      "pdf": "downloads/minneapolis-pickleball-signage-shop-drawings.pdf"
+    },
+    {
+      "id": "livefront-office-branding",
+      "title": "Livefront — Office Branding",
+      "category": "CAD / Shop Drawings",
+      "alsoIn": [
+        "Branding"
+      ],
+      "year": "2025",
+      "role": "Shop drawings",
+      "tools": [
+        "Adobe Illustrator"
+      ],
+      "summary": "A dimensional wordmark with a metallic finish, drawn for fabrication and mounted on a navy lobby wall.",
+      "description": "The Livefront wordmark as dimensional metallic letters on a navy feature wall. The shop drawing translates the logo into fabrication-ready geometry, including the strike-through line that runs through the name.",
+      "brief": "Reproduce a logo as a dimensional lobby sign that matches the brand and the architect's design.",
+      "process": [
+        "Started from the architect's lobby rendering.",
+        "Set the logo into a wall template to confirm size and placement.",
+        "Produced the shop drawing for fabrication, then documented the installed sign."
+      ],
+      "featured": true,
+      "cover": {
+        "src": "images/projects/livefront-office-branding/cover.webp",
+        "alt": "Metallic dimensional Livefront letters on a navy wall, shown from an angle",
+        "w": 1200,
+        "h": 900
+      },
+      "images": [
+        {
+          "src": "images/projects/livefront-office-branding/final/livefront-install-1.webp",
+          "alt": "Metallic dimensional Livefront letters on a navy wall, shown from an angle",
+          "caption": "Installed sign, angled view",
+          "w": 1800,
+          "h": 1350
+        },
+        {
+          "src": "images/projects/livefront-office-branding/final/livefront-install-2.webp",
+          "alt": "Straight-on view of the metallic Livefront sign on a navy wall with wood slats",
+          "caption": "Installed sign, straight on",
+          "w": 1800,
+          "h": 1151
+        },
+        {
+          "src": "images/projects/livefront-office-branding/drawing/livefront-logo-shop-drawing.webp",
+          "alt": "Shop drawing of the Livefront logo with dimensions and specifications",
+          "caption": "Shop drawing",
+          "w": 2400,
+          "h": 1553
+        },
+        {
+          "src": "images/projects/livefront-office-branding/process/livefront-template.webp",
+          "alt": "Livefront lobby with the sign on a navy wall, wood paneling and lounge chairs",
+          "caption": "Placement template",
+          "w": 640,
+          "h": 481
+        },
+        {
+          "src": "images/projects/livefront-office-branding/reference/livefront-rendering.webp",
+          "alt": "Architect's rendering of the Livefront lobby with the logo on a navy wall",
+          "caption": "Architect's rendering",
+          "w": 866,
+          "h": 506
+        }
+      ],
+      "pdf": "downloads/livefront-office-branding-shop-drawings.pdf"
+    },
+    {
+      "id": "30000ft-rain-garden-sign",
+      "title": "30000 Feet — Rain Garden Sign",
+      "category": "CAD / Shop Drawings",
+      "alsoIn": [
+        "Illustration"
+      ],
+      "year": "2025",
+      "role": "Sign design & shop drawings",
+      "tools": [
+        "Adobe Illustrator"
+      ],
+      "summary": "An interpretive sign that explains how rain gardens keep pollution out of the Mississippi River.",
+      "description": "A post-mounted interpretive sign for a rain garden at 30000 Feet. The artwork explains the science in a diagram; the shop drawing covers the panel, mounting plate, post and the 45-degree angle that makes it readable for a standing visitor.",
+      "brief": "Help visitors understand what a rain garden does, using a sign that is clear at a glance and durable outdoors.",
+      "process": [
+        "Designed the sign artwork around a cross-section diagram of the garden.",
+        "Drew the panel, mounting plate and side view next to a human figure to check height and angle.",
+        "Specified a UV-printed metal composite panel on a galvanized steel post."
+      ],
+      "featured": false,
+      "cover": {
+        "src": "images/projects/30000ft-rain-garden-sign/cover.webp",
+        "alt": "Rain garden sign titled Planted for Purpose mounted behind an iron fence",
+        "w": 1200,
+        "h": 900
+      },
+      "images": [
+        {
+          "src": "images/projects/30000ft-rain-garden-sign/final/rain-garden-sign-mockup.webp",
+          "alt": "Rain garden sign titled Planted for Purpose mounted behind an iron fence",
+          "caption": "Sign in the garden",
+          "w": 1800,
+          "h": 1350
+        },
+        {
+          "src": "images/projects/30000ft-rain-garden-sign/final/rain-garden-sign-artwork.webp",
+          "alt": "Sign artwork titled Rooting Out Pollution with a rain garden cross-section diagram",
+          "caption": "Sign artwork",
+          "w": 1800,
+          "h": 1080
+        },
+        {
+          "src": "images/projects/30000ft-rain-garden-sign/drawing/rain-garden-sign-shop-drawing.webp",
+          "alt": "Shop drawing of the rain garden sign with panel, mounting plate and a figure for scale",
+          "caption": "Shop drawing",
+          "w": 2400,
+          "h": 1553
+        },
+        {
+          "src": "images/projects/30000ft-rain-garden-sign/reference/30000ft-exterior.webp",
+          "alt": "Exterior of the 30000 Feet building with a tall navy sign",
+          "caption": "Site: exterior",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "images/projects/30000ft-rain-garden-sign/reference/30000ft-interior-1.webp",
+          "alt": "30000 Feet lobby with teal walls and a reception desk",
+          "caption": "Site: lobby",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "images/projects/30000ft-rain-garden-sign/reference/30000ft-interior-2.webp",
+          "alt": "Large green lettering on a mural wall inside 30000 Feet",
+          "caption": "Site: mural wall",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "images/projects/30000ft-rain-garden-sign/reference/30000ft-interior-3.webp",
+          "alt": "Colorful lounge area with teal booths at 30000 Feet",
+          "caption": "Site: lounge",
+          "w": 1800,
+          "h": 1200
+        }
+      ],
+      "pdf": "downloads/30000ft-rain-garden-sign-shop-drawings.pdf"
+    },
+    {
+      "id": "prior-lake-polar-plunge-banner",
+      "title": "Prior Lake Polar Plunge — Banner",
+      "category": "Branding",
+      "alsoIn": [
+        "CAD / Shop Drawings"
+      ],
+      "year": "2025",
+      "role": "Banner design & shop drawing",
+      "tools": [
+        "Adobe Illustrator"
+      ],
+      "summary": "A 30-foot event banner built to be read from the road, with a removable date.",
+      "description": "A winter event banner for the Prior Lake Polar Plunge. The icy lettering and bold type read at a distance, and the date is a separate vinyl piece so the same banner can be used in future years.",
+      "brief": "Promote the event to people passing by, and make the banner reusable year after year.",
+      "process": [
+        "Designed the banner at 360 × 36 inches.",
+        "Specified double-sided printed mesh with a sewn hem and grommets every 24 inches.",
+        "Drew the date as a removable vinyl element so only that piece needs replacing."
+      ],
+      "featured": true,
+      "cover": {
+        "src": "images/projects/prior-lake-polar-plunge-banner/cover.webp",
+        "alt": "Prior Lake Polar Plunge banner on a fence in front of a snowy skyline",
+        "w": 1200,
+        "h": 900
+      },
+      "images": [
+        {
+          "src": "images/projects/prior-lake-polar-plunge-banner/final/polar-plunge-banner-mockup.webp",
+          "alt": "Prior Lake Polar Plunge banner on a fence in front of a snowy skyline",
+          "caption": "Banner mockup",
+          "w": 1344,
+          "h": 732
+        },
+        {
+          "src": "images/projects/prior-lake-polar-plunge-banner/drawing/polar-plunge-banner-shop-drawing.webp",
+          "alt": "Shop drawing of the banner with dimensions, material specs and the removable date",
+          "caption": "Shop drawing",
+          "w": 2400,
+          "h": 1553
+        }
+      ],
+      "pdf": "downloads/prior-lake-polar-plunge-banner-shop-drawings.pdf"
+    },
+    {
+      "id": "ada-slider-sign",
+      "title": "ADA Slider Sign — Animated Render",
+      "category": "3D Rendering",
+      "alsoIn": [
+        "CAD / Shop Drawings"
+      ],
+      "year": "",
+      "role": "3D visualization",
+      "tools": [],
+      "summary": "An exploded 3D view of a sliding room-sign assembly.",
+      "description": "A render of a sliding ADA sign: the backplate, the sliding panels and the inserts shown apart. The short animation shows how the parts come together.",
+      "brief": "Show how the sign is built in a way that is easy to understand without reading a drawing.",
+      "process": [
+        "Modeled each part of the assembly.",
+        "Rendered the parts in an exploded layout with finish colors.",
+        "Animated the parts to show how they fit together."
+      ],
+      "featured": false,
+      "cover": {
+        "src": "images/projects/ada-slider-sign/cover.webp",
+        "alt": "Exploded 3D render of a sliding sign: a gray backplate and brown wood-look panels",
+        "w": 1200,
+        "h": 900
+      },
+      "images": [
+        {
+          "src": "images/projects/ada-slider-sign/render/ada-slider-still.webp",
+          "alt": "Exploded 3D render of a sliding sign: a gray backplate and brown wood-look panels",
+          "caption": "Exploded view",
+          "w": 1491,
+          "h": 564,
+          "animation": "images/projects/ada-slider-sign/render/ada-slider-animation.webp"
+        }
+      ]
+    },
+    {
+      "id": "fast-tempo",
+      "title": "Fast Tempo — Illustrated Book",
+      "category": "Illustration",
+      "alsoIn": [],
+      "year": "",
+      "role": "Illustration & book design",
+      "tools": [],
+      "summary": "A bold, purple, music-driven children's book with a character-led layout.",
+      "description": "Illustration and layout for Fast Tempo. Saturated color, hand-lettered titles and a cast of characters keep the pages moving at the pace the title promises.",
+      "brief": "Make the pages feel like music: energetic, colorful and easy for young readers to follow.",
+      "process": [
+        "Developed the characters and a limited, high-contrast palette.",
+        "Laid out the spreads with large hand-lettered type.",
+        "Mocked up the finished book as a printed object."
+      ],
+      "featured": true,
+      "cover": {
+        "src": "images/projects/fast-tempo/cover.webp",
+        "alt": "Open illustrated book in purples and pinks with the Fast Tempo cover beside it",
+        "w": 1200,
+        "h": 900
+      },
+      "images": [
+        {
+          "src": "images/projects/fast-tempo/final/fast-tempo-mockup.webp",
+          "alt": "Open illustrated book in purples and pinks with the Fast Tempo cover beside it",
+          "caption": "Book mockup",
+          "w": 2000,
+          "h": 1273
+        }
+      ]
+    },
+    {
+      "id": "spots-and-dots",
+      "title": "Spots and Dots — Illustrated Book",
+      "category": "Illustration",
+      "alsoIn": [],
+      "year": "",
+      "role": "Illustration & book design",
+      "tools": [],
+      "summary": "A two-color blue book of dogs, spots and playful type.",
+      "description": "A children's book built on one blue and white palette. Simple line illustration and chunky lettering carry the story with very little else on the page.",
+      "brief": "Tell a simple story with a restrained palette and big, readable type.",
+      "process": [
+        "Limited the palette to one blue and white.",
+        "Drew the characters in clean line work.",
+        "Set playful lettering into the scenes and mocked up the printed book."
+      ],
+      "featured": false,
+      "cover": {
+        "src": "images/projects/spots-and-dots/cover.webp",
+        "alt": "Blue and white illustrated book with a dog and the word Down on an open page",
+        "w": 1200,
+        "h": 900
+      },
+      "images": [
+        {
+          "src": "images/projects/spots-and-dots/final/spots-and-dots-mockup.webp",
+          "alt": "Blue and white illustrated book with a dog and the word Down on an open page",
+          "caption": "Book mockup",
+          "w": 2000,
+          "h": 1273
+        }
+      ]
+    },
+    {
+      "id": "thats-rubbish",
+      "title": "That's Rubbish — Illustrated Book",
+      "category": "Illustration",
+      "alsoIn": [],
+      "year": "",
+      "role": "Illustration & book design",
+      "tools": [],
+      "summary": "Watercolor-style scenes of animals and the things we throw away.",
+      "description": "Soft, painted illustration for a picture book about rubbish. Warm color and expressive animals keep the topic gentle and curious.",
+      "brief": "Make a story about waste feel warm and approachable for young readers.",
+      "process": [
+        "Painted the scenes in a loose watercolor style.",
+        "Designed the cover and spreads for print.",
+        "Mocked up the finished book."
+      ],
+      "featured": false,
+      "cover": {
+        "src": "images/projects/thats-rubbish/cover.webp",
+        "alt": "Three spreads of a watercolor picture book with animals and a green dumpster",
+        "w": 1200,
+        "h": 900
+      },
+      "images": [
+        {
+          "src": "images/projects/thats-rubbish/final/thats-rubbish-mockup.webp",
+          "alt": "Three spreads of a watercolor picture book with animals and a green dumpster",
+          "caption": "Book mockup",
+          "w": 2000,
+          "h": 1273
+        }
+      ]
+    },
+    {
+      "id": "highland-cow",
+      "title": "Highland Cow",
+      "category": "Physical Art",
+      "alsoIn": [],
+      "year": "",
+      "role": "Artist",
+      "tools": [],
+      "summary": "Two highland cow portraits in rich, layered color.",
+      "description": "Two physical pieces on the same subject. One is a bright orange calf against green hills, built up in layers of color. The other is a close, textured study in a cooler palette.",
+      "brief": "",
+      "process": [],
+      "featured": true,
+      "cover": {
+        "src": "images/projects/highland-cow/cover.webp",
+        "alt": "Painted portrait of an orange highland calf in front of green hills",
+        "w": 1200,
+        "h": 900
+      },
+      "images": [
+        {
+          "src": "images/projects/highland-cow/final/highland-cow-orange.webp",
+          "alt": "Painted portrait of an orange highland calf in front of green hills",
+          "caption": "Highland calf",
+          "w": 1498,
+          "h": 1800
+        },
+        {
+          "src": "images/projects/highland-cow/final/highland-cow-study.webp",
+          "alt": "Close textured portrait of a highland cow in blue, brown and green",
+          "caption": "Highland cow study",
+          "w": 1800,
+          "h": 1586
+        }
+      ]
+    },
+    {
+      "id": "deer",
+      "title": "Deer",
+      "category": "Physical Art",
+      "alsoIn": [],
+      "year": "",
+      "role": "Artist",
+      "tools": [],
+      "summary": "A glowing gold-toned stag emerging from a dark ground.",
+      "description": "A stag painted in gold tones against near-black, so the antlers and face seem to come out of the dark.",
+      "brief": "",
+      "process": [],
+      "featured": false,
+      "cover": {
+        "src": "images/projects/deer/cover.webp",
+        "alt": "Painting of a stag with gold-toned antlers on a dark background",
+        "w": 1200,
+        "h": 900
+      },
+      "images": [
+        {
+          "src": "images/projects/deer/final/deer.webp",
+          "alt": "Painting of a stag with gold-toned antlers on a dark background",
+          "caption": "Deer",
+          "w": 1176,
+          "h": 1800
+        }
+      ]
+    }
+  ]
+}
